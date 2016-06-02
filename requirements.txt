@@ -1,7 +1,9 @@
 Flask==0.11
+Flask-MySQLdb==0.2.0
 Jinja2==2.8
 MarkupSafe==0.23
 Werkzeug==0.11.10
 click==6.6
 gunicorn==19.6.0
 itsdangerous==0.24
+mysqlclient==1.3.7
